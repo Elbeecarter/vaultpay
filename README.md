@@ -119,7 +119,7 @@ Connect your Phantom or Solflare wallet and explore all five modules.
 
 ## Live Demo
 
-🔗 **Live App:** [https://vaultpay-ke1f94vex-elbeecarters-projects.vercel.app](https://vaultpay-ke1f94vex-elbeecarters-projects.vercel.app)
+🔗 **Live App:** [https://vaultpay-xi.vercel.app](https://vaultpay-xi.vercel.app)
 
 📁 **GitHub:** [https://github.com/Elbeecarter/vaultpay](https://github.com/Elbeecarter/vaultpay)
 
