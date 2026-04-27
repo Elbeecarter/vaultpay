@@ -130,7 +130,7 @@ export async function privateSwap({
   amountIn,
   outputMint,
   recipientWallet,
-  minAmountOut = 1n,
+  minAmountOut = BigInt(1),
 }: {
   signer: Keypair;
   amountIn: bigint;
