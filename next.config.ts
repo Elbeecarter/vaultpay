@@ -1,7 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
+  serverExternalPackages: ["@cloak.dev/sdk"],
+  turbopack: {},
 };
 
 export default nextConfig;
