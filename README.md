@@ -1,6 +1,7 @@
 # VaultPay — Private Financial OS for DAOs & Teams
 
 > Built on [Cloak](https://cloak.ag) · Powered by Solana
+> ![VaultPay](./public/og-image.png)
 
 VaultPay is the private financial operating system for DAOs, protocols, and remote-first organizations. Run payroll, treasury operations, escrow, recurring subscriptions, and compliance — all shielded on Solana via Cloak's ZK-proof infrastructure. Amounts and addresses never appear on the public ledger.
 
